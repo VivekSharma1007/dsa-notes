@@ -4,3 +4,4 @@ This site contains solutions and explanations for Data Structures and Algorithms
 
 ## Categories
 - [Arrays](arrays/first.md)
+- [Arrays](arrays/Array_1_SecondLargest.md)
