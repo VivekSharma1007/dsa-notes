@@ -17,3 +17,6 @@ class Solution {
     }
 }
 ```
+
+## Time-Complexity: O(n) - traversing only once
+## Space-Complexity: O(1) - No extra space is used
