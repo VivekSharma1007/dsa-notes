@@ -1,0 +1,4 @@
+title: My Project
+description: My GitHub Pages site powered by Jekyll
+theme: minima   # default Jekyll theme
+markdown: kramdown
