@@ -10,3 +10,4 @@ This site contains solutions and explanations for Data Structures and Algorithms
 ## Categories
 - [Arrays](docs/arrays/first.md)
 - [Arrays](docs/arrays/Array_1_SecondLargest.md)
+- [Arrays_2_MaxConsecutiveOnes](docs/arrays/Array_2_MaxConsecutiveOnes.md)
