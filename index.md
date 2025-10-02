@@ -8,6 +8,6 @@ title: Home
 This site contains solutions and explanations for Data Structures and Algorithms problems.
 
 ## Categories
-- [Arrays](docs/arrays/first.md)
-- [Arrays](docs/arrays/Array_1_SecondLargest.md)
+- [Array_1_SecondLargest](docs/arrays/Array_1_SecondLargest.md)
 - [Arrays_2_MaxConsecutiveOnes](docs/arrays/Array_2_MaxConsecutiveOnes.md)
+- [Array_3_MoveZerosToEnd](docs/arrays/Array_3_MoveZerosToEnd.md)
