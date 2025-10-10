@@ -16,3 +16,4 @@ This site contains solutions and explanations for Data Structures and Algorithms
 - [Array_6_RearrangeElementsBySigns](docs/arrays/Array_6_RearrangeElementsBySigns.md)
 - [Array_7_PascalTriangle](docs/arrays/Array_7_PascalTriangle.md)
 - [Array_8_PascalTriangle_PrintRow](/docs/arrays/Array_8_PascalTriangle_PrintRow.md)
+- [PascalTriangle3](/docs/arrays/Array_9_PascalTriangle3.md)
